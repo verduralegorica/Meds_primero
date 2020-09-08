@@ -1,6 +1,6 @@
 # Experimento_meds_parte I
 
-El proyecto consta de 3 aplicaciones: (i) **primero**/primero_t, (ii) segundo y (iii) tercero.
+El proyecto consta de 3 aplicaciones: (i) **meds_primero**/meds_primero_t, (ii) meds_segundo y (iii) meds_tercero.
 
 Para la primera parte, existen 2 aplicaciones: primero (control) y primero_t (tratamiento).
 
