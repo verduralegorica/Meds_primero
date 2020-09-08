@@ -22,11 +22,11 @@ class Constants(BaseConstants):
     payment_per_answer = c(0.2)
 
 
-    instructions_template = 'primero/InstruccionesB.html'
-    instructions_button = "primero/Instructions_Button.html"
-    contact_template = "primero/Contactenos.html"
+    instructions_template = 'meds_primero/InstruccionesB.html'
+    instructions_button = "meds_primero/Instructions_Button.html"
+    contact_template = "meds_primero/Contactenos.html"
 
-    name_in_url = 'experimento_de_medicamentos1'  # name in webbrowser
+    name_in_url = 'pxe_rol_med1'  # name in webbrowser
 
 
     # Respuestas del quiz de entendimiento
