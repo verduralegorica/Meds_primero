@@ -7,7 +7,8 @@ Para la primera parte, existen 2 aplicaciones: meds_primero (control) y meds_pri
 La configuración (en settings) variará ligeramente por eso. Este aplicativo (meds_primero) refiere al de control, por tanto la config es la siguiente:
 
 - SESSION_CONFIG_DEFAULTS = dict(real_world_currency_per_point=1, participation_fee=5)
-- SESSION_CONFIGS = [dict(name='exp_meds_gc', num_demo_participants=1, app_sequence=['MobilePhones', 'meds_primero', 'meds_segundo', 'meds_tercero'], display_name='exp_meds')]
+- SESSION_CONFIGS = [dict(name='exp_meds_gc', display_name='Exp_meds_control', num_demo_participants=1, app_sequence=['MobilePhones', 'meds_primero', 'meds_segundo', 'meds_tercero'])]
+
 
 Esta aplicación contiene lo siguiente:
 1. Instrucciones
